@@ -1,5 +1,5 @@
 # Instrucciones para arrancar Spark con Jupyter
-1. Activación
+1. Activación  
 `conda activate py37`  
 `jupyter notebook &`
 
@@ -22,7 +22,7 @@ from pyspark import SparkContext
 `sc = SparkContext("local[*]")", "Name of the program")`
 
 
-### Probar la siguiente frase:
+### Probar la siguiente fase
 ```python
 rdd1 = sc.parallelize([1, 2, 3, 4, 5, 8])
 res  = rdd1.reduce(lambda x, y: x + y)
