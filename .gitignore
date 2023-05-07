@@ -4,4 +4,7 @@
 # Ficheros de datos sin comprimir
 botnet_tot_syn_l.csv
 quijote.text
+pg2000.txt
 
+# Ficheros de Jupyter
+.ipynb_checkpoints
