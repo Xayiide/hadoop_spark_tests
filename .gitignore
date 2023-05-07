@@ -1,0 +1,7 @@
+# Ficheros intermedios
+*.swp
+
+# Ficheros de datos sin comprimir
+botnet_tot_syn_l.csv
+quijote.text
+
