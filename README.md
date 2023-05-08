@@ -1,5 +1,6 @@
 # Instrucciones para arrancar Spark con Jupyter
 1. Activación  
+En el directorio *src*:  
 `conda activate py37`  
 `jupyter notebook &`
 
