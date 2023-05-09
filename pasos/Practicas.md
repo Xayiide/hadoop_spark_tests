@@ -46,6 +46,9 @@ export HADOOP_CLASSPATH=$JAVA_HOME/lib/tools.jar
 /usr/local/hadoop/bin/hadoop com.sun.tools.javac.Main WordCount.java
 jar cd wc.jar WordCount*.class
 ```
+![Compilación](img/CompilarWordCount.png)
+
+
 5. Ejecutamos el .jar:  
 ```bash
 hadoopc hadoop jar /root/workspace/Hadoop_Test/src/wc.jar WordCount /test/hadoop-env.sh /test/output
@@ -65,6 +68,6 @@ Directorio base: `/root/workspace/Hadoop_Test`
 Goals: `package`
 3. Ponemos esto y le damos a *Run*.  
 
-[TODO: Insertar imagen aquí]  
+![Foto de la Run config.](img/RunConfigEclipse.png)  
 
 De todos modos creo que no hace falta esto, pero porsi.
