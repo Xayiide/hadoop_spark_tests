@@ -106,6 +106,7 @@ tal  3
 ```
 El primer paso será replicar el comportamiento de *Wordcount.java* en PySpark (con los cuadernos de Jupyter) para asegurarnos de que entendemos cómo se hace. Luego pasaremos a prototipar de la misma forma el programa que buscamos, para finalmente traducirlo a Java.  
 
-Lo primero está en [TODO: introducir enlace al PySpark de WordCount]  
+Lo primero está [aquí](src/Practica3/WordCountPySpark.ipynb).  
 Lo segundo en [TODO: introducir enlace al PySpark de CuentaPalabras]  
 Lo último en [TODO: introducir enlace al fichero Java de CuentaPalabras]  
+Hay un primer prototipado del WordCount en el fichero [Maximo.ipynb](src/Maximo.ipynb) pero utiliza otras funciones además de `map` y `reduce`.  
