@@ -6,7 +6,7 @@ En el directorio *src*:
 
 2. Crear solamente el *python3 kernel*. NO usar *Apache Toree*  
 
-3. Para poder usar las primitivas de Spark, añadir estas líneas en la primera celda del notebook:
+3. Para poder usar las primitivas de Spark, añadir estas líneas en la primera celda del cuaderno:
 ```python
 import findspark
 findspark.init()
