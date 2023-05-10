@@ -1,7 +1,7 @@
 # Índice
-1. [Práctica 1](#práctica-1)
-2. [Práctica 2](#práctica-2)
-3. [Práctica 3](#práctica-3)
+- [Práctica 1](#Práctica-1)
+- [Práctica 2](#Práctica-2)
+- [Práctica 3](#Práctica-3)
 
 # Práctica 1
 ## Inicialización:
