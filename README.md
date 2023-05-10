@@ -1,8 +1,13 @@
+# Pasos para realizar las prácticas
+El fichero en el que se explica el desarrollo de las prácticas es [este](pasos/README.md)
+
+
 # Instrucciones para arrancar Spark con Jupyter
 1. Activación  
 En el directorio *src*:  
 `conda activate py37`  
 `jupyter notebook &`
+Esto ya directamente abre en el navegador una pestaña con el cuaderno de Jupyter en el directorio *src*.  
 
 2. Crear solamente el *python3 kernel*. NO usar *Apache Toree*  
 
