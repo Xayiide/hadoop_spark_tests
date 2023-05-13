@@ -6,7 +6,7 @@ El fichero en el que se explica el desarrollo de los ejercicios y de las prácti
 1. Activación  
 En el directorio *src*:  
 `conda activate py37`  
-`jupyter notebook &`
+`jupyter notebook &`  
 Esto ya directamente abre en el navegador una pestaña con el cuaderno de Jupyter en el directorio *src*.  
 
 2. Crear solamente el *python3 kernel*. NO usar *Apache Toree*  
