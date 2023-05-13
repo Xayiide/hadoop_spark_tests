@@ -1,5 +1,10 @@
-# Pasos para realizar las prácticas
-El fichero en el que se explica el desarrollo de los ejercicios y de las prácticas es [este](pasos/README.md)
+# Estructura de este repositorio
+ - [bin](bin): Contiene actualmente un fichero `.jar` fruto de compilar el ejercicio de contar palabras con Hadoop en Java.
+ - [datos](datos): Contiene los ficheros de datos que se utilizarán.
+ - [src](src/): Contiene el código, ya sea en Java, Python o cuaderno Jupyter, de todos los ejemplos, ejercicios y prácticas.
+	 - [Ejemplos](src/ejemplos): Directorio que contiene ejemplos de utilización del API de Spark para Python.
+	 - [Ejercicios](src/ejercicios): En este directorio están los ejercicios de introducción a Hadoop y Spark en Java.
+	 - [Prácticas](src/practicas): En este están las prácticas que hay que entregar.
 
 
 # Instrucciones para arrancar Spark con Jupyter
