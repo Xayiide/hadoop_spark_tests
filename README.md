@@ -1,5 +1,5 @@
 # Pasos para realizar las prácticas
-El fichero en el que se explica el desarrollo de las prácticas es [este](pasos/README.md)
+El fichero en el que se explica el desarrollo de los ejercicios y de las prácticas es [este](pasos/README.md)
 
 
 # Instrucciones para arrancar Spark con Jupyter

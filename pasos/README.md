@@ -1,9 +1,9 @@
 # Índice
-- [Práctica 1](#Práctica-1)
-- [Práctica 2](#Práctica-2)
-- [Práctica 3](#Práctica-3)
+- [Ejercicio 1](#Ejercicio-1)
+- [Ejercicio 2](#Ejercicio-2)
+- [Ejercicio 3](#Ejercicio-3)
 
-# Práctica 1
+# Ejercicio 1
 ## Inicialización:
 1. Entrar como root
 2. Borrar datos anteriores del HDFS:  
@@ -29,7 +29,7 @@ Para comprobar que todo ha ido correctamente, accedemos a las siguientes página
 
 
 
-# Práctica 2
+# Ejercicio 2
 ## Se compilará el programa que hay de Hadoop
 1. El servicio de MapReduce debe estar iniciado. Si no lo está, ejecutar:  
 `hadoopc start yarn`
@@ -79,7 +79,7 @@ Goals: `package`
 De todos modos creo que no hace falta esto, pero porsi.
 
 
-# Práctica 3
+# Ejercicio 3
 ## Enunciado
 A partir de un fichero de entrada, devolver otro con una línea donde aparezca la palabra más frecuente y sus apariciones.  
 Ejemplo de fichero de entrada:
@@ -104,9 +104,6 @@ hola 2
 que  4
 tal  3
 ```
-El primer paso será replicar el comportamiento de *Wordcount.java* en PySpark (con los cuadernos de Jupyter) para asegurarnos de que entendemos cómo se hace. Luego pasaremos a prototipar de la misma forma el programa que buscamos, para finalmente traducirlo a Java.  
+El primer paso será replicar el comportamiento de *Wordcount.java* en PySpark (con los cuadernos de Jupyter) para asegurarnos de que entendemos cómo se hace.  
 
-Lo primero está [aquí](../src/Practica3/WordCountPySpark.ipynb).  
-Lo segundo en [TODO: introducir enlace al PySpark de CuentaPalabras]  
-Lo último en [TODO: introducir enlace al fichero Java de CuentaPalabras]  
-Hay un primer prototipado del WordCount en el fichero [Maximo.ipynb](src/Maximo.ipynb) pero utiliza otras funciones además de `map` y `reduce`.  
+Lo primero está [aquí](../src/Ejercicio3/WordCountPySpark.ipynb).  
