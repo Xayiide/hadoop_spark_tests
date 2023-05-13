@@ -26,5 +26,5 @@ tal  3
 El primer paso será replicar el comportamiento de *WordCount.java* en PySpark (con los cuadernos de Jupyter) para asegurarnos de que entendemos cómo se hace.
 1. El comportamiento de *WordCount.java* queda replicado en [WordCountPySpark.ipynb](WordCountPySpark.ipynb).
 
-El segundo paso es hacer los cambios pertinentes en *WordCount.java* para implementar este funcionamiento.  
+El segundo paso es hacer los cambios pertinentes en *WordCount.java* para implementar este funcionamiento.
 2. Queda replicado en [TODO: hay que hacer esto].
